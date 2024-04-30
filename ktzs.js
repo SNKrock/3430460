@@ -1,6 +1,6 @@
 /*******************************
-脚本名称:  拓客助手
-描述:拓客助手
+脚本名称:  TKZS
+描述:TKZS
 脚本作者：彭于晏💞
 更新时间：2024年4月30日 下午11:14
 问题反馈：QQ+89996462
@@ -12,7 +12,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/tkapi.customerhelper.cn\/1\/classes\/userInfoList url script-response-body https://raw.githubusercontent.com/SNKrock/3430460/main/tkzs.js
+^http[s]?:\/\/tkapi.customerhelper.cn\/1\/classes\/userInfoList url script-response-body https://raw.githubusercontent.com/SNKrock/3430460/main/ktzs.js
 
 [mitm] 
 
