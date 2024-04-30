@@ -12,7 +12,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/mobile.ktvme.com\/ url script-response-body ktvme.js
+^http[s]?:\/\/mobile.ktvme.com\/ url script-response-body https://raw.githubusercontent.com/SNKrock/3430460/main/km.js
 
 [mitm] 
 
