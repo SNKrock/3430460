@@ -8,9 +8,13 @@ TG反馈群：https://t.me/plus8889
 TG频道群：https://t.me/py996
 使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
+
 [rewrite_local]
+
 ^http[s]?:\/\/(league-api.huazhuanapp.com|league-api.huazhuanapp.com)(/api/v1/user/permanentPoints|/api/v1/wallpaper/generator/vip/info) url script-response-body https://raw.githubusercontent.com/SNKrock/3430460/main/twzs.js
+
 [mitm] 
+
 hostname = (league-api.huazhuanapp.com|league-api.huazhuanapp.com)
 
 *******************************/
